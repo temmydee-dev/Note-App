@@ -1,2 +1,2 @@
 # Note-App
-A Web Note App in Javascripts
+A Web Note App in JavaScript
