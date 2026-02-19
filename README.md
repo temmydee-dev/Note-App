@@ -25,8 +25,8 @@ This app allows users to create, update, and delete notes, with data stored loca
 - When the page loads, saved notes are retrieved and displayed.
 - Any update (add, edit, delete) automatically refreshes the UI and updates storage.
 
-## Demo
-
+## Live Demo
+https://temmydee-dev.github.io/Note-App/
 
 ## Purpose
 
